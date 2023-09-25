@@ -6,6 +6,8 @@
   
 This application includes an interactive tables that allows users to filter, sort and search through markets for a basketball game.
 
+I built my own components, no 3rd party libraries.
+
 User Interface Screenshot
 
 ![Screenshot](https://github.com/LevonAr/swish-table/blob/main/screenshot.png)
